@@ -1,4 +1,15 @@
 h1 {
     font-family: 'Shippori Antique B1', sans-serif;
-    background-color: darkblue;
+    color: darkblue;
+
+}
+
+h3{
+    font-family: 'Shippori Antique B1', sans-serif;
+    color: darkblue;
+}
+
+p {
+    font-family: 'Shippori Antique B1', sans-serif;
+    color: gray;
 }
